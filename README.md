@@ -13,21 +13,6 @@ Over 36 days, this repository captures:
 
 ---
 
-## Repository Structure
-
-Each day represents focused practice and documentation.
-
-Every folder follows the same structure:
-
-Day-X/
-│
-├── questions.sql    SQL problems practiced that day
-├── solutions.sql    Implemented solutions
-├── README.md        Concept focus of the day
-└── notes.md         Learnings and real-world relevance
-
----
-
 ## Learning Areas Covered
 
 Throughout the journey, the following key SQL capabilities are developed:
