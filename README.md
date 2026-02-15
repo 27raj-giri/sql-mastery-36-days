@@ -21,10 +21,10 @@ Every folder follows the same structure:
 
 Day-X/
 │
-├── questions.sql   → SQL problems practiced that day
-├── solutions.sql   → Implemented solutions
-├── README.md       → Concept focus of the day
-└── notes.md        → Learnings and real-world relevance
+├── questions.sql    SQL problems practiced that day
+├── solutions.sql    Implemented solutions
+├── README.md        Concept focus of the day
+└── notes.md         Learnings and real-world relevance
 
 ---
 
